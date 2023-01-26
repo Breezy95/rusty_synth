@@ -60,6 +60,14 @@ pub struct Wavetable_handle {
     pub frequency_buffer: Vec<f32>,
 } */
 
+
+//implement semitone calculation
+
+//enum variants cant be used as params
+fn semitone(key: i32) -> f32{
+
+}
+
 struct WavetableOscillator {
     sample_rate: u32,
     wave_table: Vec<f32>,
@@ -127,6 +135,20 @@ impl Iterator for WavetableOscillator {
     }
 }
 
+impl Clone for WavetableOscillator{
+    fn clone(&self) -> Self {
+
+        let  clone_table =self.wave_table.clone();
+        return WavetableOscillator { sample_rate: self.sample_rate, wave_table: clone_table, index: self.index, index_increment: self.index_increment }
+
+
+    }
+
+    fn clone_from(&mut self, original: &Self) {}
+}
+
+
+
 
 
 fn render(canvas: &mut WindowCanvas, color: Color, font: &sdl2::ttf::Font, texture_creator: &TextureCreator<WindowContext>, txt_inj: &mut String) -> Result<(), String> {
@@ -156,6 +178,7 @@ fn render(canvas: &mut WindowCanvas, color: Color, font: &sdl2::ttf::Font, textu
     canvas.present();
     Ok(())
 }
+
 
 
 
@@ -196,20 +219,13 @@ fn main() -> Result<(), String> {
     text = "".to_string();
 
     let (_stream, stream_handle) = OutputStream::try_default().unwrap();
-
+    
+    
+    let src = oscillator.convert_samples::<f32>();
     let sink = Sink::try_new(&stream_handle).unwrap();
 
     
-    
-    
-    sink.append(oscillator.convert_samples());
-
-    
-
-
-    
-
-  
+ 
 
     let mut i =0;
 
@@ -227,7 +243,8 @@ fn main() -> Result<(), String> {
                     println!("{}",timestamp);
                     println!("{}",keycode.unwrap().to_string());
                     text.push_str(&keycode.unwrap().to_string());
-                    
+                    sink.append(src.clone());
+                    sink.play();
                     
                     
                 },
