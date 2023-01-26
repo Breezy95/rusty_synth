@@ -1,0 +1,13 @@
+/home/debian/Documents/Projects/rusty_synth/target/debug/deps/lewton-bcfe633ed1223aab.rmeta: /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/debian/Documents/Projects/rusty_synth/target/debug/deps/lewton-bcfe633ed1223aab.d: /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs:

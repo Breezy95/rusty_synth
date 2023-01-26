@@ -1,0 +1,10 @@
+/home/debian/Documents/Projects/rusty_synth/target/debug/deps/symphonia_bundle_flac-18800262a2fa8e8b.rmeta: /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/lib.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/decoder.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/demuxer.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/frame.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/parser.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/validate.rs
+
+/home/debian/Documents/Projects/rusty_synth/target/debug/deps/symphonia_bundle_flac-18800262a2fa8e8b.d: /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/lib.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/decoder.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/demuxer.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/frame.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/parser.rs /home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/validate.rs
+
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/lib.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/decoder.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/demuxer.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/frame.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/parser.rs:
+/home/debian/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-bundle-flac-0.5.2/src/validate.rs:
